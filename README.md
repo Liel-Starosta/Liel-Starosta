@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AWS Architecture
 
 
-Please have fun going through my recent projects!
+Explore my projects below to see how I'm automating security and streamlining workflows!
 
 <!---
 Liel-Starosta/Liel-Starosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
